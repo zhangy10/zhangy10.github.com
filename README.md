@@ -1,9 +1,14 @@
 # Personal Blog
+
 This is my personal blog established by using the Jekyll-Bootstrap.
 
 ## Version
 
 0.1 - initial version on October 23, 2015
+
+## Blog Link
+
+https://zhangy10.github.io/
 
 ## License
 
